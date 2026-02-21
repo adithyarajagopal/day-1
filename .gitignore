@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# ChromaDB vectorstore (rebuild with: python embed.py)
+chroma_db/
+
+# PDF source document
+*.pdf
+
+# IDE / local config
+.claude/
